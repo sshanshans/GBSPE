@@ -1,0 +1,12 @@
+Logging started...
+========================
+Basic information...
+N: 4
+K: 3
+phi: hafsq
+vandermonde: 
+0.0006537454071959745
+gt: 0.4325258958753026
+mc: 1360.0982281193028
+gbs: 37.62395209671862
+gbs_eff: 1

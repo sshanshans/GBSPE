@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: GBSPE
+Version: 0.1.0
+Summary: Estimating the Percentage of GBS Advantage in Gaussian Expectation Problems
+Home-page: https://github.com/sshanshans/GBEGE.git
+Author: Shan Shan
+Author-email: shan-qm@imada.sdu.dk
+License: GPL-3.0
+License-File: LICENSE
+Requires-Dist: thewalrus
+Requires-Dist: joblib
+Requires-Dist: tabulate
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: seaborn

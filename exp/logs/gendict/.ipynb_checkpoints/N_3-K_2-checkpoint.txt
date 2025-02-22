@@ -1,0 +1,10 @@
+15 tasks completed
+Traceback (most recent call last):
+  File "/work/GBSPE/script/make_dict.py", line 71, in <module>
+    main()
+  File "/work/GBSPE/script/make_dict.py", line 64, in main
+    save_dict(cdict, filename1)
+  File "/work/GBSPE/src/_helpers/check.py", line 6, in save_dict
+    with open(filename, 'wb') as file:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/work/GBSPE/exp/dict/cdata/N-3-K-2.pkl'

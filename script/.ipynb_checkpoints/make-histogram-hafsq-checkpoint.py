@@ -82,8 +82,8 @@ def plot_combined(mc_values, gbs_values, gt_values, filename):
 
 def track_results_in_table():
     # Define the range of N and K values
-    N_values = [3, 4, 5, 6]
-    K_values = [2, 3, 4, 5, 6, 7, 8]
+    N_values = [3, 4]
+    K_values = [2, 3]
 
     # Loop through each N and K
     for i, N in enumerate(N_values):

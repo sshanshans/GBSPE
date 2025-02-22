@@ -80,8 +80,8 @@ def process_list(eff_list, vdet_list, filename):
 
 def track_results_in_table():
     # Define the range of N and K values
-    N_values = [3, 4, 5, 6]
-    K_values = [2, 3, 4, 5, 6, 7, 8]
+    N_values = [3, 4]
+    K_values = [2, 3]
 
     # Initialize a table (NumPy array) to store the results
     results_table = np.zeros((len(N_values), len(K_values)))
