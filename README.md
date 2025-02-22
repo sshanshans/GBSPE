@@ -9,10 +9,9 @@ This repository contains python code for estimating the percentage of GBS advant
 
 ## Installation
 
-You can install this software directly from GitHub:
-
 ```bash
-pip install git+https://github.com/sshanshans/GBEPE.git
+git clone https://github.com/sshanshans/GBEPE.git
+pip install -e ./
 ```
 
 ## Usage
